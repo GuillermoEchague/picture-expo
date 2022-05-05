@@ -3,7 +3,7 @@
 Nombre: Guillermo Echagüe
 
 
-## Instalar Expo en Local Instalar Expo en Local
+## Instalar Expo en Local
 
 Primero instalamos con npm explo-cli y exp (debemos de tener Node.js y npm instalados)
 ```bash
