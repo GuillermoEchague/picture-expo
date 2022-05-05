@@ -1,5 +1,9 @@
+# Desarrollo de la Actividad 7
 
-## Instalar Expo en Local
+Nombre: Guillermo Echagüe
+
+
+## Instalar Expo en Local Instalar Expo en Local
 
 Primero instalamos con npm explo-cli y exp (debemos de tener Node.js y npm instalados)
 ```bash
@@ -24,19 +28,24 @@ To run your project, navigate to the directory and run one of the following yarn
 
 ## Dependencias del proyecto
 ```bash
-expo install react-native-screens react-native-safe-area-context
-
-yarn add @react-navigation/native-stack
-
-yarn add @react-navigation/material-bottom-tabs react-native-paper react-native-vector-icons
-
-yarn add @react-native-community/datetimepicker
-
-yarn add @react-navigation/native-stack
-
-yarn add @react-native-async-storage/async-storage
-
-yarn add @reduxjs/toolkit redux react-redux
-
-yarn add moment
+expo install expo-image-picker
+expo install expo-constants
 ```
+
+### Funciones de App
+
+
+### Home App
+![](img/1.png)
+
+### Permiso 1 App
+![](img/2.png)
+
+### Permiso 2 App
+![](img/3.png)
+
+### Camara App
+![](img/4.png)
+
+### Home foto App
+![](img/5.png)
