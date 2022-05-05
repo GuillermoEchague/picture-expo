@@ -13,7 +13,7 @@ npm install -g expo-cli exp
 
 ## Inicio de proyecto
 ```bash
-expo init picture-map-expo
+expo init picture-expo
 ```
 
 To run your project, navigate to the directory and run one of the following yarn commands.
